@@ -1,12 +1,13 @@
-/*.container {
-    position: fixed;
+
+.container {
+    position: relative;
     width: 1512px;
     height: 126px;
     left: 0px;
     top: 0px;
     background: #AACE9B;
-}
-
+} 
+/*
 .menu {
     position: fixed;
     width: 397px;
