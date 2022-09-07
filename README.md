@@ -4,11 +4,11 @@ Trackgenix is a software that allows you to have a record of the hours of each e
 
 ## Software
 
-This software was developed using HTML.
+This software was developed using HTML and CSS.
 
 ## Instructions
 
-1. Go to the folder "Semana-01".
+1. Go to the folder "Semana-03".
 2. Open the "index.html" file.
 
 ### Author 
